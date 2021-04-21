@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.662caeba.chunk.css",
-    "main.js": "/my-app/static/js/main.101fcd00.chunk.js",
-    "main.js.map": "/my-app/static/js/main.101fcd00.chunk.js.map",
-    "runtime-main.js": "/my-app/static/js/runtime-main.aa8d97de.js",
-    "runtime-main.js.map": "/my-app/static/js/runtime-main.aa8d97de.js.map",
-    "static/css/2.447e360c.chunk.css": "/my-app/static/css/2.447e360c.chunk.css",
-    "static/js/2.2f179f17.chunk.js": "/my-app/static/js/2.2f179f17.chunk.js",
-    "static/js/2.2f179f17.chunk.js.map": "/my-app/static/js/2.2f179f17.chunk.js.map",
-    "index.html": "/my-app/index.html",
-    "static/css/2.447e360c.chunk.css.map": "/my-app/static/css/2.447e360c.chunk.css.map",
-    "static/css/main.662caeba.chunk.css.map": "/my-app/static/css/main.662caeba.chunk.css.map",
-    "static/js/2.2f179f17.chunk.js.LICENSE.txt": "/my-app/static/js/2.2f179f17.chunk.js.LICENSE.txt",
-    "static/media/semantic.min.css": "/my-app/static/media/outline-icons.ddae9b1b.woff"
+    "main.css": "/cards-test/static/css/main.662caeba.chunk.css",
+    "main.js": "/cards-test/static/js/main.101fcd00.chunk.js",
+    "main.js.map": "/cards-test/static/js/main.101fcd00.chunk.js.map",
+    "runtime-main.js": "/cards-test/static/js/runtime-main.cd9bf806.js",
+    "runtime-main.js.map": "/cards-test/static/js/runtime-main.cd9bf806.js.map",
+    "static/css/2.dd30ae00.chunk.css": "/cards-test/static/css/2.dd30ae00.chunk.css",
+    "static/js/2.2f179f17.chunk.js": "/cards-test/static/js/2.2f179f17.chunk.js",
+    "static/js/2.2f179f17.chunk.js.map": "/cards-test/static/js/2.2f179f17.chunk.js.map",
+    "index.html": "/cards-test/index.html",
+    "static/css/2.dd30ae00.chunk.css.map": "/cards-test/static/css/2.dd30ae00.chunk.css.map",
+    "static/css/main.662caeba.chunk.css.map": "/cards-test/static/css/main.662caeba.chunk.css.map",
+    "static/js/2.2f179f17.chunk.js.LICENSE.txt": "/cards-test/static/js/2.2f179f17.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/cards-test/static/media/outline-icons.ddae9b1b.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.aa8d97de.js",
-    "static/css/2.447e360c.chunk.css",
+    "static/js/runtime-main.cd9bf806.js",
+    "static/css/2.dd30ae00.chunk.css",
     "static/js/2.2f179f17.chunk.js",
     "static/css/main.662caeba.chunk.css",
     "static/js/main.101fcd00.chunk.js"
