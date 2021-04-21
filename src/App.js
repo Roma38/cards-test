@@ -58,7 +58,7 @@ function App() {
         onClick={() => clickHandler(index)}
         onDoubleClick={() => doubleClickHandler(index)}
         onContextMenu={e => rightClickHandler(e, index)}
-        header={name}
+        header={`${name} ID: ${id}`}
         extra={<Input value={name}
           onClick={e => e.stopPropagation()}
           onChange={e => dispatch({ type: 'rename', newName: e.target.value, index })}
