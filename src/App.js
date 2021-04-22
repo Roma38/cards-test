@@ -11,10 +11,15 @@ function reducer(cards, action) {
       newCards[action.index].name = action.newName;
       return newCards;
     case 'moveUp':
-      [newCards[action.index], newCards[action.index - 1]] = [cards[action.index - 1], cards[action.index]];
+      debugger;
+      if (action.index !== 0) {
+        [newCards[action.index], newCards[action.index - 1]] = [cards[action.index - 1], cards[action.index]];
+      }
       return newCards;
     case 'moveDown':
-      [newCards[action.index], newCards[action.index + 1]] = [cards[action.index + 1], cards[action.index]];
+      if (action.index !== cards.length - 1) {
+        [newCards[action.index], newCards[action.index + 1]] = [cards[action.index + 1], cards[action.index]];
+      }
       return newCards;
     case 'delete':
       newCards.splice(action.index, 1);
