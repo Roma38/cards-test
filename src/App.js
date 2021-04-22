@@ -11,7 +11,6 @@ function reducer(cards, action) {
       newCards[action.index].name = action.newName;
       return newCards;
     case 'moveUp':
-      debugger;
       if (action.index !== 0) {
         [newCards[action.index], newCards[action.index - 1]] = [cards[action.index - 1], cards[action.index]];
       }
